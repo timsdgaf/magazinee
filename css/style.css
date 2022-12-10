@@ -1,0 +1,60 @@
+/**************tags********************/
+body {
+  background-color: beige;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  font-family: 'Nerko One', cursive;
+}
+h2{
+  font-family: 'Solway', serif;
+}
+/**************class***************/
+.hfont{
+  font-size: 100px;
+}
+.border{
+  border-style:none;
+ border-top-style:dotted;
+ border-color:sandybrown;
+ border-width: 5px;
+ width: 5%;
+ color: white;
+}
+.btn {
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  text-shadow: 1px 1px 4px peach;
+  font-family: Arial;
+  color: #000000;
+  font-size: 11px;
+  background: #e9967a;
+  padding: 10px 15px 10px 6px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #a9a9a9;
+  background-image: -webkit-linear-gradient(top, #a9a9a9, #a9a9a9);
+  background-image: -moz-linear-gradient(top, #a9a9a9, #a9a9a9);
+  background-image: -ms-linear-gradient(top, #a9a9a9, #a9a9a9);
+  background-image: -o-linear-gradient(top, #a9a9a9, #a9a9a9);
+  background-image: linear-gradient(to bottom, #a9a9a9, #a9a9a9);
+  text-decoration: none;
+
+}
+.top-container{
+  background-color: #f5deb3;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color:#f5deb3;
+}
+.copyright{
+  color: #ffa07a;
+
+}
